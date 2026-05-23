@@ -203,11 +203,3 @@ LangChain | RAG | AI Agents | LLM Engineering
 
 ---
 
-If you want, I can also:
-
-* ✅ Create a **requirements.txt**
-* ✅ Add **folder-level READMEs**
-* ✅ Write **example notebooks**
-* ✅ Convert this into a **course-style repo**
-
-Just tell me 👍
